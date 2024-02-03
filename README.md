@@ -5,4 +5,4 @@ This includes writing boilerplate HTML code, utilized various tags and elements,
 
 This project is a website that contains three different favorite recipes of mine. The home page contains the links to the three recipes. Each individual recipe page will have the instructions for the recipe and an image of the finished dish.
 
-Enjoy!!
+Enjoy!
